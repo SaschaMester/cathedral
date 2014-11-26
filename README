@@ -12,6 +12,11 @@ Additionally, I had to fix Page Breaks and Line Breaks which were made after pas
 
 I used LibreOffice to export to PDF and some other File Formats. 
 
+The folder TCATB.orig.esr contains the actual original text by Eric S. Raymond, manually 
+grabbed from his website, the folder DKUDB.orig.trans contains the PDF-file where my version 
+is based on, and the folder DKUDB.rm.trans contains my version in differend file formats, 
+such as PDF, txt, DocBook XML etc. 
+
 I hope you enjoy. 
 
 
